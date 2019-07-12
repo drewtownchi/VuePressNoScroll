@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/drewtownchi/VuePressNoScroll#readme",
   "dependencies": {
-    "vuepress": "1.0.0-alpha.27"
+    "vuepress": "1.0.0"
   }
 }
